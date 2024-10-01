@@ -10,7 +10,7 @@ My name is Benjamin Chang, I'm currently a junior studying computer engineering!
 - Tech leading for HausaNLP and developing a dataset catalog for Hausa natural language processing resources to facilitate future LLM and NLP research to ensure that the Hausa language is well-represented. Hausa is the second largest language group in Africa, but it is classified as a low-resource language, meaning that state-of-the-art NLP models cannot be trained.
 - Full-stack development on UIUC Discovery Clicker and Mastery Platform: interactive classroom tools and a fully-online assessment platform that allows professors to write multiple-choice and numeric questions with randomized values, and python coding questions.
 
-### 📫 How to reach me: https://www.linkedin.com/in/benjaminchang3/
+## 📫 How to reach me: https://www.linkedin.com/in/benjaminchang3/
 
 ### Languages
 ![](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
