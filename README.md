@@ -4,6 +4,8 @@ My name is Benjamin Chang, I'm currently a junior studying in computer engineeri
 ### 🔭 I’m currently working on ...
 Tech leading for HausaNLP and developing a dataset catalog for Hausa natural language processing resources to facilitate future LLM and NLP research to ensure that the Hausa language is well-represented. Hausa is the second largest language group in Africa, but it is classified as a low-resource language, meaning that state-of-the-art NLP models cnanot be trained.
 
+### 📫 How to reach me: https://www.linkedin.com/in/benjaminchang3/
+
 ### Languages
 ![](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
@@ -25,7 +27,7 @@ Tech leading for HausaNLP and developing a dataset catalog for Hausa natural lan
 ![](https://img.shields.io/badge/Sequelize-52B0E7.svg?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![](https://img.shields.io/badge/Arduino-00878F.svg?style=for-the-badge&logo=Arduino&logoColor=white)
 
-### 📫 How to reach me: https://www.linkedin.com/in/benjaminchang3/
+
 
 <!--
 **bchang3/bchang3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
