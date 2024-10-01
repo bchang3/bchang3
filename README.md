@@ -1,7 +1,12 @@
+<img src="https://github.com/user-attachments/assets/5f0c590b-2cd3-4ea3-8775-ba9068389ca2" width=300>
+<img src="https://github.com/user-attachments/assets/8d664f45-8ba9-4c7a-8545-bff5d5877d1a" width=350>
+<img src="https://github.com/user-attachments/assets/5f0c590b-2cd3-4ea3-8775-ba9068389ca2" width=300>
+
+
 ## Hi there 👋
 My name is Benjamin Chang, I'm currently a junior studying computer engineering! I'm currently a tech lead for Hack4Impact on the HausaNLP team. I'm interested in software development, game development, and developing products that improve people's lives!
 
-### ![image](https://github.com/user-attachments/assets/5f0c590b-2cd3-4ea3-8775-ba9068389ca2) I’m currently working on ...
+###  I’m currently working on ...
 Tech leading for HausaNLP and developing a dataset catalog for Hausa natural language processing resources to facilitate future LLM and NLP research to ensure that the Hausa language is well-represented. Hausa is the second largest language group in Africa, but it is classified as a low-resource language, meaning that state-of-the-art NLP models cannot be trained.
 
 ### 📫 How to reach me: https://www.linkedin.com/in/benjaminchang3/
