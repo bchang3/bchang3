@@ -1,6 +1,6 @@
-<img src="https://github.com/user-attachments/assets/5f0c590b-2cd3-4ea3-8775-ba9068389ca2" width=200>
-<img src="https://github.com/user-attachments/assets/8d664f45-8ba9-4c7a-8545-bff5d5877d1a" width=250>
-<img src="https://github.com/user-attachments/assets/5f0c590b-2cd3-4ea3-8775-ba9068389ca2" width=200>
+<img src="https://github.com/user-attachments/assets/5f0c590b-2cd3-4ea3-8775-ba9068389ca2" width=250>
+<img src="https://github.com/user-attachments/assets/8d664f45-8ba9-4c7a-8545-bff5d5877d1a" width=300>
+<img src="https://github.com/user-attachments/assets/5f0c590b-2cd3-4ea3-8775-ba9068389ca2" width=250>
 
 
 ## Hi there 👋
