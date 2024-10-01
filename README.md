@@ -1,7 +1,10 @@
 ## Hi there 👋
-My name is Benjamin Chang, I'm currently a junior studying in computer engineering! I'm interested in software development, game development, and developing products that improve people's lives!
+My name is Benjamin Chang, I'm currently a junior studying in computer engineering! I'm currently a tech lead for Hack4Impact on the HausaNLP team. I'm interested in software development, game development, and developing products that improve people's lives!
 
-## Languages
+### 🔭 I’m currently working on ...
+Tech leading for HausaNLP and developing a dataset catalog for Hausa natural language processing resources to facilitate future LLM and NLP research to ensure that the Hausa language is well-represented. Hausa is the second largest language group in Africa, but it is classified as a low-resource language, meaning that state-of-the-art NLP models cnanot be trained.
+
+### Languages
 ![](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
@@ -10,7 +13,7 @@ My name is Benjamin Chang, I'm currently a junior studying in computer engineeri
 ![](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 
-## Frameworks
+### Frameworks
 ![](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
 ![](https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
