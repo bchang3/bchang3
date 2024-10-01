@@ -1,8 +1,8 @@
 ## Hi there 👋
-My name is Benjamin Chang, I'm currently a junior studying in computer engineering! I'm currently a tech lead for Hack4Impact on the HausaNLP team. I'm interested in software development, game development, and developing products that improve people's lives!
+My name is Benjamin Chang, I'm currently a junior studying computer engineering! I'm currently a tech lead for Hack4Impact on the HausaNLP team. I'm interested in software development, game development, and developing products that improve people's lives!
 
 ### 🔭 I’m currently working on ...
-Tech leading for HausaNLP and developing a dataset catalog for Hausa natural language processing resources to facilitate future LLM and NLP research to ensure that the Hausa language is well-represented. Hausa is the second largest language group in Africa, but it is classified as a low-resource language, meaning that state-of-the-art NLP models cnanot be trained.
+Tech leading for HausaNLP and developing a dataset catalog for Hausa natural language processing resources to facilitate future LLM and NLP research to ensure that the Hausa language is well-represented. Hausa is the second largest language group in Africa, but it is classified as a low-resource language, meaning that state-of-the-art NLP models cannot be trained.
 
 ### 📫 How to reach me: https://www.linkedin.com/in/benjaminchang3/
 
