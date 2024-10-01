@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+My name is Benjamin Chang, I'm currently a junior studying in computer engineering! I'm interested in software development, game development, and developing products that improve people's lives!
 <!--
 **bchang3/bchang3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
