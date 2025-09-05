@@ -4,11 +4,11 @@
 
 
 ## Hi there 👋
-My name is Benjamin Chang, I'm currently a junior studying computer engineering! I'm currently a tech lead for Hack4Impact on the HausaNLP team. I'm interested in software development, game development, and developing products that improve people's lives!
+My name is Benjamin Chang, I'm a junior studying computer engineering! I'm currently a tech lead for Hack4Impact on the HausaNLP team. I'm interested in software development, game development, and developing products that improve people's lives!
 
 ##  <img src="https://github.com/user-attachments/assets/f0a17549-636d-4e9a-93ee-ddaded301b94" width=40> I’m currently working on ...
 ### Tech leading for HausaNLP 📝
-- and developing a dataset catalog for Hausa natural language processing resources to facilitate future LLM and NLP research to ensure that the Hausa language is well-represented. Hausa is the second largest language group in Africa, but it is classified as a low-resource language, meaning that state-of-the-art NLP models cannot be trained.
+- and developing the first online Hausa dictionary ([kamusunhausa.hausanlp.org](https://kamusunhausa.hausanlp.org/)). Hausa is the second most used language in Africa, with over 90 million speakers, but is classified as a low-resource language. To make sure that Hausa is well-represented in state-of-the-art NLP and LLM models, we also built a  dataset catalog to facilitate future research ([catalog.hausanlp.org](https://catalog.hausanlp.org/))..
 ### UIUC Discovery Clicker and Mastery Platform 🧑‍🏫
 - I'm working on developing Discovery Clicker, a tool where professors can display multiple-choice or numeric questions, get live results from students, and display data visualizations to show what students answered! I'm also working on developing Mastery Platform a fully-online assessment platform that allows professors to write multiple-choice and numeric questions with randomized values, and python coding questions.
 
