@@ -13,11 +13,11 @@ My name is Benjamin Chang, I'm a junior studying computer engineering! I'm curre
 - I'm working on developing Discovery Clicker, a tool where professors can display multiple-choice or numeric questions, get live results from students, and display data visualizations to show what students answered! I'm also working on developing Mastery Platform a fully-online assessment platform that allows professors to write multiple-choice and numeric questions with randomized values, and python coding questions.
 
 ## Check out my projects!
-- [kamusunhausa.hausanlp.org/](https://kamusunhausa.hausanlp.org/)
-- [quartz-tawny.vercel.app/](https://quartz-tawny.vercel.app/)
-- [catalog.hausanlp.org/](https://catalog.hausanlp.org/)
-- [springbreak-itinerary.vercel.app/](https://springbreak-itinerary.vercel.app)
-- [apt-neon.vercel.app/](https://apt-neon.vercel.app/) - In Progress
+- [kamusunhausa.hausanlp.org/](https://kamusunhausa.hausanlp.org/) - Hausa online dictionary
+- [quartz-tawny.vercel.app/](https://quartz-tawny.vercel.app/) - Developer log to keep track of past bugs, issues, and solutions
+- [catalog.hausanlp.org/](https://catalog.hausanlp.org/) - Hausa dataset catalog
+- [apt-neon.vercel.app/](https://apt-neon.vercel.app/) - Multiplayer "truth-or-truth" guessing game
+- [springbreak-itinerary.vercel.app/](https://springbreak-itinerary.vercel.app) - Mock travel itinerary site
 - [benjamin-chang.vercel.app/](https://benjamin-chang.vercel.app/) - In Progress
 
 ## 📫 How to reach me: https://www.linkedin.com/in/benjaminchang3/
