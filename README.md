@@ -16,7 +16,7 @@ My name is Benjamin Chang, I'm a junior studying computer engineering! I'm curre
 - [kamusunhausa.hausanlp.org/](https://kamusunhausa.hausanlp.org/)
 - [quartz-tawny.vercel.app/](https://quartz-tawny.vercel.app/)
 - [catalog.hausanlp.org/](https://catalog.hausanlp.org/)
-- [springbreak-itinerary.vercel.app](springbreak-itinerary.vercel.app)
+- [springbreak-itinerary.vercel.app/](https://springbreak-itinerary.vercel.app)
 - [apt-neon.vercel.app/](https://apt-neon.vercel.app/) - In Progress
 - [benjamin-chang.vercel.app/](https://benjamin-chang.vercel.app/) - In Progress
 
