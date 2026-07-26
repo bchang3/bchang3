@@ -18,7 +18,7 @@ My name is Benjamin Chang, I'm a junior studying computer engineering! I'm curre
 - [catalog.hausanlp.org/](https://catalog.hausanlp.org/) - Hausa dataset catalog
 - [apt-neon.vercel.app/](https://apt-neon.vercel.app/) - Multiplayer "truth-or-truth" guessing game
 - [springbreak-itinerary.vercel.app/](https://springbreak-itinerary.vercel.app) - Mock travel itinerary site
-- [benjamin-chang.vercel.app/](https://benjamin-chang.vercel.app/) - In Progress
+- [benjamin-chang.vercel.app/](https://benjamin-chang.vercel.app/) - Personal Website (In Progress)
 
 ## 📫 How to reach me: https://www.linkedin.com/in/benjaminchang3/
 
