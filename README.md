@@ -14,6 +14,7 @@ My name is Benjamin Chang, I'm a junior studying computer engineering! I'm curre
 
 ## Check out my projects!
 - [kamusunhausa.hausanlp.org/](https://kamusunhausa.hausanlp.org/) - Hausa online dictionary
+- [strivelle.com](https://www.strivelle.com/) - Strivelle, an running app to earn rewards from local businesses
 - [quartz-tawny.vercel.app/](https://quartz-tawny.vercel.app/) - Developer log to keep track of past bugs, issues, and solutions
 - [catalog.hausanlp.org/](https://catalog.hausanlp.org/) - Hausa dataset catalog
 - [apt-neon.vercel.app/](https://apt-neon.vercel.app/) - Multiplayer "truth-or-truth" guessing game
