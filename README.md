@@ -4,7 +4,7 @@
 
 
 ## Hi there 👋
-My name is Benjamin Chang, I'm a junior studying computer engineering! I'm currently a tech lead for Hack4Impact on the HausaNLP team. I'm interested in software development, game development, and developing products that improve people's lives! My personal website ([benjamin-chang.vercel.app/](https://benjamin-chang.vercel.app/)) is still under construction, but all of my projects are listed here and on LinkedIn!
+I'm Benjamin Chang, pursuing a Master of Computer Science at UIUC (expected May 2027) after earning my B.S. in Computer Engineering (2023-2026)! I'm currently interning at Stripe as a full-stack software engineer, working on cost estimations and modeling. I'm interested in software development, game development, and developing products that improve people's lives! My personal website ([benjamin-chang.vercel.app/](https://benjamin-chang.vercel.app/)) is still under construction, but all of my projects are listed here and on LinkedIn!
 
 ## Check out my projects!
 - [kamusunhausa.hausanlp.org/](https://kamusunhausa.hausanlp.org/) - Hausa online dictionary
