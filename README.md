@@ -6,12 +6,6 @@
 ## Hi there 👋
 My name is Benjamin Chang, I'm a junior studying computer engineering! I'm currently a tech lead for Hack4Impact on the HausaNLP team. I'm interested in software development, game development, and developing products that improve people's lives! My personal website ([benjamin-chang.vercel.app/](https://benjamin-chang.vercel.app/)) is still under construction, but all of my projects are listed here and on LinkedIn!
 
-##  <img src="https://github.com/user-attachments/assets/f0a17549-636d-4e9a-93ee-ddaded301b94" width=40> I’m currently working on ...
-### Tech leading for HausaNLP 📝
-- and developing the first online Hausa dictionary from scratch ([kamusunhausa.hausanlp.org](https://kamusunhausa.hausanlp.org/)). Hausa is the second most used language in Africa, with over 90 million speakers. However, it is still classified as a low-resource language. To make sure that Hausa is well-represented in NLP and LLM models, we also built a dataset catalog to facilitate future NLP research ([catalog.hausanlp.org](https://catalog.hausanlp.org/)).
-### UIUC Discovery Clicker and Mastery Platform 🧑‍🏫
-- I'm working on developing Discovery Clicker, a tool where professors can display multiple-choice or numeric questions, get live results from students, and display data visualizations to show what students answered! I'm also working on developing Mastery Platform a fully-online assessment platform that allows professors to write multiple-choice and numeric questions with randomized values, and python coding questions.
-
 ## Check out my projects!
 - [kamusunhausa.hausanlp.org/](https://kamusunhausa.hausanlp.org/) - Hausa online dictionary
 - [strivelle.com](https://www.strivelle.com/) - Strivelle, an running app to earn rewards from local businesses
